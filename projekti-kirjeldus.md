@@ -1,3 +1,4 @@
+Ajakava on lisatud (./projekti-kirjeldus.md)
 # Projekti kirjeldus
 
 Selles failis kirjeldatakse digiloovtöö põhiandmeid. Täida väljad võimalikult selgelt ja lühidalt, et töö eesmärk, sisu ja oodatav tulemus oleksid arusaadavad nii autorile, juhendajale kui ka teistele lugejatele.
