@@ -11,7 +11,7 @@ Markus Mägi (projektijuht), Kaisa Muiste (fotograaf), Linda Oja (sisulooja), Ma
 ## Juhendaja
 Kati Lepp
 
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com)
+Loe ja harjuta persoonade koostamist: [Digiloovtöö õpik](https://web.htk.tlu.ee/informaatika/digiloovtoo/front-matter/introduction/)
 
 ## Eesmärk
 Projekti eesmärkideks on:
