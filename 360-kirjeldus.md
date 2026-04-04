@@ -11,6 +11,8 @@ Markus Mägi (projektijuht), Kaisa Muiste (fotograaf), Linda Oja (sisulooja), Ma
 ## Juhendaja
 Kati Lepp
 
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com)
+
 ## Eesmärk
 Projekti eesmärkideks on:
 - Luua 2026. aasta mai lõpuks virtuaalne koolimaja tuur, kasutades vähemalt 20 erinevat 360° fotot, mis katavad kooli peamised ruumid ja võimaldavad kasutajal keskkonnas liikuda.
