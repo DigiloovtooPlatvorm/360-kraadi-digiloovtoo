@@ -11,8 +11,6 @@ Markus Mägi (projektijuht), Kaisa Muiste (fotograaf), Linda Oja (sisulooja), Ma
 ## Juhendaja
 Kati Lepp
 
-Loe ja harjuta persoonade koostamist: [Digiloovtöö õpik](https://web.htk.tlu.ee/informaatika/digiloovtoo/front-matter/introduction/)
-
 ## Eesmärk
 Projekti eesmärkideks on:
 - Luua 2026. aasta mai lõpuks virtuaalne koolimaja tuur, kasutades vähemalt 20 erinevat 360° fotot, mis katavad kooli peamised ruumid ja võimaldavad kasutajal keskkonnas liikuda.
