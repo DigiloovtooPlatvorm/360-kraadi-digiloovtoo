@@ -3,7 +3,7 @@
 Selles failis kirjeldatakse digiloovtöö põhiandmeid. Täida väljad võimalikult selgelt ja lühidalt, et töö eesmärk, sisu ja oodatav tulemus oleksid arusaadavad nii autorile, juhendajale kui ka teistele lugejatele.
 
 ## Töö pealkiri
-Kooli evakuatsioon virtuaalses koolimajas
+Virtuaalne evakuatsioon koolimajas
 
 ## Autor(id)
 Markus Mägi (projektijuht), Kaisa Muiste (fotograaf), Linda Oja (sisulooja), Mark Tamm (arhivaar).
