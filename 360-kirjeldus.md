@@ -100,6 +100,3 @@ Projekti lõpptulemusena valmib toimiv virtuaalne õpikeskkond, mida saab kasuta
 - Esitluse ettevalmistamine
 - Projekti esitlemine
 
-| pealkiri	| selgitus 	| number 	|
-| - - - - - - - - -	| - - - - - - - - - | - - - - - - - - - - |
-| digiloovtöö 	| kaheksas klass	| 1 	| 
