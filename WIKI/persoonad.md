@@ -80,3 +80,39 @@ Maria käib 7. klassis. Ta saab aru juhistest ja suudab teha iseseisvaid otsusei
 
 ### Pilt
 <img width="500" height="1536" alt="ChatGPT Image Apr 11, 2026, 11_44_24 AM" src="https://github.com/user-attachments/assets/c93d53fa-9afb-42f0-89e5-ad11b0ebf604" />
+
+## Persoona 3
+
+### Nimi
+Kristi
+
+### Vanus
+35
+
+### Taust
+Kati on klassiõpetaja. Ta on õpetanud mitu aastat ja viib läbi ka evakuatsiooniõppuseid koolis. Ta kasutab aeg-ajalt digivahendeid, aga ei ole väga tehniline inimene.  
+
+### Vajadused
+- Lihtne ja arusaadav keskkond  
+- Selged juhised, kuidas seda õppetöös kasutada  
+- Võimalus näidata õpilastele õigeid käitumisviise 
+
+### Ootused
+- Et keskkond aitaks õpetada evakuatsiooni  
+- Et õpilased õpiksid sellest päriselt midagi  
+- Et seda oleks lihtne tunnis kasutada  
+
+### Probleemid
+- Võib olla keeruline kasutada uut tehnoloogiat  
+- Aega on vähe, et kõike ise õppida  
+- Mõni õpilane ei pruugi tõsiselt võtta 
+
+### Motivatsioon
+- Tahab, et õpilased oskaksid ohuolukorras õigesti käituda  
+- Tahab teha oma tunde huvitavamaks ja kasulikumaks  
+
+### Tsitaat
+"Peamine on see, et õpilased teaksid, mida teha päris olukorras."  
+
+### Pilt
+<img width="500" height="1536" alt="ChatGPT Image Apr 11, 2026, 11_48_21 AM" src="https://github.com/user-attachments/assets/5df276dc-c2d8-415e-856c-d61ca6aff18c" />
