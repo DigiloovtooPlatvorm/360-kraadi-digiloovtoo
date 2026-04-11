@@ -13,51 +13,70 @@ Persoona on kasutajagruppi esindav tüüpiline isik. Persoona ei pea olema päri
 ## Persoona 1
 
 ### Nimi
-Mari
+Karl
 
 ### Vanus
-14
+8
 
 ### Taust
-8.klassi õpilane, elab väikelinnas. Kasutab igapäevaselt arvutit ja telefoni nii õppimiseks kui suhtlemiseks.
+Karl käib 2. klassis. Ta ei ole varem evakuatsiooni väga tõsiselt läbi mõelnud ja vajab juhendamist.  
 
 ### Vajadused
-Vajab selget ja lihtsat keskkonda, kus kõik õppematerjalid on ühes kohas. Vajab juhiseid, mis on kergesti arusaadavad.
+- Väga lihtsad ja selged juhised  
+- Visuaalsed märgid (nooled, ikoonid)  
+- Samm-sammuline juhendamine  
 
 ### Ootused
-Soovib leida vajalikud õppematerjalid kiiresti ja ilma segaduseta.
+- Et ta saab aru, kuhu minna  
+- Et keegi “näitab ette”, mida teha  
+- Et keskkond on lihtne kasutada  
 
 ### Probleemid
-Õppematerjalid on erinevates keskkondades ja neid on raske üles leida. Vahel ei saa aru, mida täpselt tegema peab.
+- Võib paanikasse minna  
+- Ei pruugi aru saada keerulisest tekstist  
+- Ei tea, mis on kõige ohutum tee 
 
 ### Motivatsioon
-Tahab saada häid hindeid ja olla koolis edukas.
+- Tahab tunda end turvaliselt  
+- Tahab õigesti käituda hädaolukorras  
 
 ### Tsitaat
-*Ma tahan, et kõik oleks lihtne ja kiiresti leitav.*
+"Ma tahan teada, kuhu ma pean minema, kui midagi juhtub."  
 
 ### Pilt
-
-<img width="300" height="1536" alt="ChatGPT Image Apr 6, 2026, 06_23_49 PM" src="https://github.com/user-attachments/assets/5d69d311-6f40-4d10-a68d-fd57869207c8" />
-
+<img width="500" height="1536" alt="ChatGPT Image Apr 11, 2026, 11_43_11 AM" src="https://github.com/user-attachments/assets/7651a204-237c-4ee6-af3c-6172cbe7a47f" />
 
 ## Persoona 2
 
 ### Nimi
+Mari
 
 ### Vanus
+13
 
 ### Taust
+Maria käib 7. klassis. Ta saab aru juhistest ja suudab teha iseseisvaid otsuseid.  
 
 ### Vajadused
+- Selged juhised ja valikukohad  
+- Võimalus ise otsuseid teha  
+- Tagasiside, kas valik oli õige  
 
 ### Ootused
+- Et saab harjutada erinevaid olukordi  
+- Et õpib, mis on ohutu ja mis mitte  
+- Et keskkond on realistlik  
 
 ### Probleemid
+- Võib alahinnata ohtu  
+- Ei pruugi alati valida kõige turvalisemat teed
 
 ### Motivatsioon
+- Tahab teada, kuidas õigesti käituda  
+- Tahab olla valmis päris olukorraks  
 
 ### Tsitaat
+"Ma tahan kindel olla, et ma teen õiged valikud."  
 
 ### Pilt
-
+<img width="500" height="1536" alt="ChatGPT Image Apr 11, 2026, 11_44_24 AM" src="https://github.com/user-attachments/assets/c93d53fa-9afb-42f0-89e5-ad11b0ebf604" />
