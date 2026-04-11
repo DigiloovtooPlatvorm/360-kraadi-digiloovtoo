@@ -5,7 +5,7 @@
 |--------------------|--------------------------------------------------------------------------|------------|
 | Oktoober           | Projekti idee täpsustamine, rollide jaotus, ajakava koostamine           | Projektijuht, kogu meeskond |
 | Oktoober           | Persoonade loomine ja sihtrühma analüüs                                   | Sisulooja, arhivaar |
-| November           | Stsenaariumite loomine (tulekahju, pommiähvardus)                        | Sisulooja |
+| November           | Stsenaariumite loomine                                                   | Sisulooja |
 | November           | Projekti struktuuri ja GitHub keskkonna üles seadmine                    | Projektijuht, arhivaar |
 | Detsember          | Pildistamiskohtade planeerimine koolimajas                              | Fotograaf |
 | Detsember          | Testfotode tegemine ja töövahendite katsetamine                          | Fotograaf |
